@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539245721 source:/home/orkhan/Documents/C++/CPP projects/fileInOut/fileOp/main.cpp
+	<iostream>
+	<fstream>
+

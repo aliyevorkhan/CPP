@@ -1,0 +1,10 @@
+files/liste.xlxs 2403345 1 4 zafer yavuz zyavuz zyavuz@ktu.edu.tr 1985 2018 10 21 14 05 56
+files/rapor.docx 3884878 0 2 orkhan aliyev theorkh 338396@ktu.edu.tr 1998 2018 10 21 14 05 56
+files/resim.jpg 2403345 2 4 zafer yavuz zyavuz zyavuz@ktu.edu.tr 1985 2018 10 21 14 05 56
+files/a.xlxs 2403345 0 4 zafer yavuz zyavuz zyavuz@ktu.edu.tr 1985 2018 10 21 14 05 56
+files/rb.docx 3884878 0 2 orkhan aliyev theorkh 338396@ktu.edu.tr 1998 2018 10 21 14 05 56
+files/cv.xlxs 2403345 0 4 zafer yavuz zyavuz zyavuz@ktu.edu.tr 1985 2018 10 21 14 05 56
+files/orkhan.docx 3884878 5 2 orkhan aliyev theorkh 338396@ktu.edu.tr 1998 2018 10 21 14 05 56
+files/aliyev.jpg 2403345 6 4 zafer yavuz zyavuz zyavuz@ktu.edu.tr 1985 2018 10 21 14 05 56
+files/az.rar 2403345 7 4 zafer yavuz zyavuz zyavuz@ktu.edu.tr 1985 2018 10 21 14 05 56
+files/baku.zip 3884878 8 2 orkhan aliyev theorkh 338396@ktu.edu.tr 1998 2018 10 21 14 05 56
